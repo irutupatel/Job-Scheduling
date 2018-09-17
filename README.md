@@ -1,4 +1,4 @@
-Description:
+# Description:
 This project is a simulator for a batch job scheduler. Initial jobs are read 
 from a user-supplied input file, placed into the queue, and then scheduler is
 started. Jobs run by priority (-20 highest priorty to 19 lowest priority), 
@@ -20,14 +20,14 @@ then by shortest length. Users may halt the scheduler in order to add new jobs o
 - time module
 - input csv of jobs
 
-Run as:
+## Run as:
 $ python3 project3.py \<input-job-listing\> \<sleep-time\>
 
-Operation:
+## Operation:
 - Ctrl-C once to pause scheduler. Prompts for entering new job or altering
 existing job follow. 
 - Ctrl-C twice to exit.
 
-Output:
+## Output:
 Running output on screen is name, priority and remaining length of
 current job. Halted scheduler prints table of all jobs.
