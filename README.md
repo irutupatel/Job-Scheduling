@@ -21,7 +21,7 @@ then by shortest length. Users may halt the scheduler in order to add new jobs o
 - input csv of jobs
 
 Run as:
-$ python3 project3.py <input-job-listing> <sleep-time>
+$ python3 project3.py \<input-job-listing\> \<sleep-time\>
 
 Operation:
 - Ctrl-C once to pause scheduler. Prompts for entering new job or altering
