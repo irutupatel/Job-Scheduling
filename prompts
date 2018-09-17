@@ -1,0 +1,11 @@
+# These are the user prompts for running Project 3. Use these
+# when calling input(). Notice they are in key,value pairs, hint: dict()
+# The last prompt is for the extra credit.
+new_job,'New job? (y/n): '
+new_job_name,'New job name: '
+new_job_priority,'New job priority: '
+new_job_length,'New job length: '
+alter_job,'Alter existing job priority? (y/n): '
+altered_job_name,'Job name: '
+altered_job_priority,'New priority: '
+sort_key,'Sort by (j/p/l/h): '

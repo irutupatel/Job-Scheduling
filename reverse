@@ -1,0 +1,41 @@
+JOB,PRIORITY,LENGTH
+nineteen,19,2
+eighteen,18,2
+seventeen,17,2
+sixteen,16,2
+fifteen,15,2
+fourteen,14,2
+thirteen,13,2
+twelve,12,2
+eleven,11,2
+ten,10,2
+nine,9,2
+eight,8,2
+seven,7,2
+six,6,2
+five,5,2
+four,4,2
+three,3,2
+two,2,2
+one,1,2
+zero,0,2
+minus one,-1,2
+minus two,-2,2
+minus three,-3,2
+minus four,-4,2
+minus five,-5,2
+minus six,-6,2
+minus seven,-7,2
+minus eight,-8,2
+minus nine,-9,2
+minus ten,-10,2
+minus eleven,-11,2
+minus twelve,-12,2
+minus thirteen,-13,2
+minus fourteen,-14,2
+minus fifteen,-15,2
+minus sixteen,-16,2
+minus seventeen,-17,2
+minus eighteen,-18,2
+minus nineteen,-19,2
+minus twenty, -20, 2
