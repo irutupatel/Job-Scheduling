@@ -4,17 +4,17 @@ from a user-supplied input file, placed into the queue, and then scheduler is
 started. Jobs run by priority (-20 highest priorty to 19 lowest priority), 
 then by shortest length. Users may halt the scheduler in order to add new jobs or alter the priority of an existing job.
 
-Dependencies:
-from textbook --
+##Dependencies:
 - adaptable_heap_priority_queue.py
 - heap_priority_queue.py
 - priority_queue_base.py
 - Empty.py
-original --
+
+##Original:
 - project3.py
 - Scheduler.py
 
-Requirements:
+##Requirements:
 - Python 3  
 - sys module
 - time module
@@ -24,9 +24,9 @@ Run as:
 $ python3 project3.py <input-job-listing> <sleep-time>
 
 Operation:
-Ctrl-C once to pause scheduler. Prompts for entering new job or altering
+- Ctrl-C once to pause scheduler. Prompts for entering new job or altering
 existing job follow. 
-Ctrl-C twice to exit.
+- Ctrl-C twice to exit.
 
 Output:
 Running output on screen is name, priority and remaining length of
